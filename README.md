@@ -25,27 +25,27 @@ TODO
 
 2. First asks for the password length. Please enter a number between 8 and 128. If you entered a wrong number you can't carry on
 
-![password generator demo](./images/step-1.png)
+![password generator demo](./images/step-1.PNG)
 
 3. Then ask whether the password should contain lowercase characters
 
-![password generator demo](./images/step-2.png)
+![password generator demo](./images/step-2.PNG)
 
 4. Then ask whether the password should contain uppercase characters
 
-![password generator demo](./images/step-3.png)
+![password generator demo](./images/step-3.PNG)
 
 5. Then ask whether the password should contain numeric characters
 
-![password generator demo](./images/step-4.png)
+![password generator demo](./images/step-4.PNG)
 
 6. Then ask whether the password should contain special characters
 
-![password generator demo](./images/step-5.png)
+![password generator demo](./images/step-5.PNG)
 
 7. The generated password is ready
 
-![password generator demo](./images/step-6.png)
+![password generator demo](./images/step-6.PNG)
 
 
 
