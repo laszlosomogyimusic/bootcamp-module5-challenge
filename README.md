@@ -1,4 +1,4 @@
-# Bootcamp Module5 Challenge - Password generator
+# Bootcamp Module 5 Challenge - Password generator
 
 ## Description
 This small web application generates a random password based on criteria the user selected.
