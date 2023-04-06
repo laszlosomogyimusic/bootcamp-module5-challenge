@@ -17,7 +17,7 @@ This small web application generates a random password based on criteria the use
 * Once prompts are answered then the password is generated and written to the page
 
 ## Live URL
-TODO
+https://laszlosomogyimusic.github.io/bootcamp-module5-challenge/
 
 ## Usage
 1. On the welcome page click on Generate Password button
